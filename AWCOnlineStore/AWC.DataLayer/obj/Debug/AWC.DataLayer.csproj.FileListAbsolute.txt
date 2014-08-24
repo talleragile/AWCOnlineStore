@@ -1,0 +1,44 @@
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.Entities.dll
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.Entities.pdb
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\obj\Debug\AWC.DataLayer.dll
+C:\Proyectos\AWCOnlineStore\AWC.DataLayer\obj\Debug\AWC.DataLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.Entities.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.Entities.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\obj\Debug\AWC.DataLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\obj\Debug\AWC.DataLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.DataLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.Entities.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\bin\Debug\AWC.Entities.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\obj\Debug\AWC.DataLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.DataLayer\obj\Debug\AWC.DataLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.DataLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.Entities.dll
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\bin\Debug\AWC.Entities.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\obj\Debug\AWC.DataLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWC.DataLayer\obj\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCStore\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll
+C:\Demo\AWCStore\AWC.DataLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCStore\AWC.DataLayer\bin\Debug\AWC.Entities.dll
+C:\Demo\AWCStore\AWC.DataLayer\bin\Debug\AWC.Entities.pdb
+C:\Demo\AWCStore\AWC.DataLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\AWCStore\AWC.DataLayer\obj\Debug\AWC.DataLayer.dll
+C:\Demo\AWCStore\AWC.DataLayer\obj\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\bin\Debug\AWC.Entities.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\bin\Debug\AWC.Entities.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\obj\Debug\AWC.DataLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\obj\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\obj\Debug\AWC.DataLayer.csprojResolveAssemblyReference.cache
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll.CodeAnalysisLog.xml
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.DataLayer\bin\Debug\AWC.DataLayer.dll.lastcodeanalysissucceeded

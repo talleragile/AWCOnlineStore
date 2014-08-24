@@ -1,0 +1,32 @@
+C:\Proyectos\AWCOnlineStore\AWC.Entities\bin\Debug\AWC.Entities.dll
+C:\Proyectos\AWCOnlineStore\AWC.Entities\bin\Debug\AWC.Entities.pdb
+C:\Proyectos\AWCOnlineStore\AWC.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\AWCOnlineStore\AWC.Entities\obj\Debug\AWC.Entities.dll
+C:\Proyectos\AWCOnlineStore\AWC.Entities\obj\Debug\AWC.Entities.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.Entities\bin\Debug\AWC.Entities.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.Entities\bin\Debug\AWC.Entities.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.Entities\obj\Debug\AWC.Entities.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.Entities\obj\Debug\AWC.Entities.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.Entities\bin\Debug\AWC.Entities.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.Entities\bin\Debug\AWC.Entities.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.Entities\obj\Debug\AWC.Entities.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.Entities\obj\Debug\AWC.Entities.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.Entities\bin\Debug\AWC.Entities.dll
+C:\TFS Demo\AWCOnlineStore\AWC.Entities\bin\Debug\AWC.Entities.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS Demo\AWCOnlineStore\AWC.Entities\obj\Debug\AWC.Entities.dll
+C:\TFS Demo\AWCOnlineStore\AWC.Entities\obj\Debug\AWC.Entities.pdb
+C:\Demo\AWCStore\AWC.Entities\bin\Debug\AWC.Entities.dll
+C:\Demo\AWCStore\AWC.Entities\bin\Debug\AWC.Entities.pdb
+C:\Demo\AWCStore\AWC.Entities\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\AWCStore\AWC.Entities\obj\Debug\AWC.Entities.dll
+C:\Demo\AWCStore\AWC.Entities\obj\Debug\AWC.Entities.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\bin\Debug\AWC.Entities.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\bin\Debug\AWC.Entities.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\obj\Debug\AWC.Entities.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\obj\Debug\AWC.Entities.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\obj\Debug\AWC.Entities.csprojResolveAssemblyReference.cache
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\bin\Debug\AWC.Entities.dll.CodeAnalysisLog.xml
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.Entities\bin\Debug\AWC.Entities.dll.lastcodeanalysissucceeded

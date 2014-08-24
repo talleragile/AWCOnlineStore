@@ -1,0 +1,109 @@
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWCOnlineStore.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWCOnlineStore.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.BusinessLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.Entities.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.DataLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.Entities.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.DataLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.BusinessLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.AddToCart.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.CheckOut.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.ErrorPage.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Global.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Login.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderDetailsPage.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderList.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Register.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.SearchResults.resources
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\AWCOnlineStore.csproj.GenerateResource.Cache
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\AWCOnlineStore.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\AWCOnlineStore.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWCOnlineStore.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWCOnlineStore.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.BusinessLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.Entities.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.DataLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.Entities.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.DataLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\bin\AWC.BusinessLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ResolveAssemblyReference.cache
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.AddToCart.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.CheckOut.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.ErrorPage.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Global.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Login.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderDetailsPage.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderList.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Register.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.SearchResults.resources
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\AWCOnlineStore.csproj.GenerateResource.Cache
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\AWCOnlineStore.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWCOnlineStore\obj\Debug\AWCOnlineStore.pdb
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWCOnlineStore.dll
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWCOnlineStore.pdb
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWC.BusinessLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWC.Entities.dll
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWC.DataLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWC.BusinessLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWC.Entities.pdb
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\bin\AWC.DataLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.AddToCart.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.CheckOut.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.ErrorPage.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Global.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Login.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderDetailsPage.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderList.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Register.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.SearchResults.resources
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\GenerateResource.read.1.tlog
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\GenerateResource.write.1.tlog
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\AWCOnlineStore.dll
+C:\TFS Demo\AWCOnlineStore\AWCOnlineStore\obj\Debug\AWCOnlineStore.pdb
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWCOnlineStore.dll
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWCOnlineStore.pdb
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWC.BusinessLayer.dll
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWC.Entities.dll
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWC.DataLayer.dll
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWC.BusinessLayer.pdb
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWC.Entities.pdb
+C:\Demo\AWCStore\AWCOnlineStore\bin\AWC.DataLayer.pdb
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.AddToCart.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.CheckOut.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.ErrorPage.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Global.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Login.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderDetailsPage.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderList.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Register.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.SearchResults.resources
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\GenerateResource.read.1.tlog
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\GenerateResource.write.1.tlog
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\AWCOnlineStore.dll
+C:\Demo\AWCStore\AWCOnlineStore\obj\Debug\AWCOnlineStore.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWCOnlineStore.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWCOnlineStore.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWC.BusinessLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWC.Entities.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWC.DataLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWC.BusinessLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWC.Entities.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWC.DataLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.AddToCart.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.CheckOut.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.ErrorPage.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Global.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Login.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderDetailsPage.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.OrderList.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.Register.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\ASPNET.StarterKit.Commerce.SearchResults.resources
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\AWCOnlineStore.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\AWCOnlineStore.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\AWCOnlineStore.csprojResolveAssemblyReference.cache
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\obj\Debug\AWCOnlineStore.csproj.GenerateResource.Cache
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWCOnlineStore.dll.CodeAnalysisLog.xml
+C:\Demo\AWCOnlineStore  ORIGINAL\AWCOnlineStore\bin\AWCOnlineStore.dll.lastcodeanalysissucceeded

@@ -1,0 +1,65 @@
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\Proyectos\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\Temporal\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\InfoSwap\AWCOnlineStore V6 MasterPages2\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\TFS Demo\AWCOnlineStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\Demo\AWCStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\Demo\AWCStore\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\Demo\AWCStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\Demo\AWCStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\Demo\AWCStore\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCStore\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\Demo\AWCStore\AWC.BusinessLayer\obj\Debug\ResolveAssemblyReference.cache
+C:\Demo\AWCStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\Demo\AWCStore\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.Entities.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.DataLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.Entities.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.dll
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.pdb
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\obj\Debug\AWC.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll.CodeAnalysisLog.xml
+C:\Demo\AWCOnlineStore  ORIGINAL\AWC.BusinessLayer\bin\Debug\AWC.BusinessLayer.dll.lastcodeanalysissucceeded
